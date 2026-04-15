@@ -3,7 +3,7 @@ title: "EDERA Formation"
 order: 0
 in_menu: true
 ---
-![Logo]({% link images/Capture d’écran 2026-04-14 à 19.49.41.png %})
+![Logo]({% link images/Edera.png %})
 
 ## Bienvenue sur *Edera formation* 
 
