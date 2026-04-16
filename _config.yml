@@ -6,4 +6,5 @@ plugins:
   - jekyll-git-hash
 theme: mimoza
 scribouilli: true
-baseurl: /le-site-de-daniela
+baseurl: ""
+url: www.edera-formation.eu 
