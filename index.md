@@ -3,7 +3,9 @@ title: "EDERA Formation"
 order: 0
 in_menu: true
 ---
-<img src="https://raw.githubusercontent.com/Celan68/le-site-de-daniela/main/images/Edera.png" style="width: 500px; height: auto;">
+<a href="https://celan68.github.io/le-site-de-daniela/">
+  <img src="https://raw.githubusercontent.com/Celan68/le-site-de-daniela/main/images/Edera.png" style="width: 500px; height: auto;">
+</a>
 
 ## Bienvenue sur Edera formation
 
